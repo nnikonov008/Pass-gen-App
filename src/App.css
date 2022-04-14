@@ -4,54 +4,54 @@
 }
 
 .container {
-  width: 350px;
+  width: 80vh;
   margin: 0 auto;
-  padding-top: 200px;
+  padding-top: 23vh;
 
 }
 
 .generator {
-  background: blue;
-  border-radius: 3px;
-  box-shadow: 0px 2 px 10px rgba(255,255,255, 0.2);
-  padding: 20px;
+  background: rgb(116, 212, 250);
+  border-radius: 1vh;
+  box-shadow: 0vh 5vh 5vh rgba(255,255,255, 0.2);
+  padding: 5vh;
 }
 
 .generator_header {
   text-align: center;
   color:white;
-  margin-bottom: 20px;
+  margin-bottom: 3vh;
 }
 
 .generator_password {
   position: relative;
-  background-color: rgba(0,0,0, 0.4);
-  padding: 13px 10px;
+  background-color: rgba(65, 65, 65, 0.4);
+  padding: 1.5vh 1vh;
   color: white;
-  height: 46px;
-  margin-bottom: 15px;
+  height: 6vh;
+  margin-bottom: 3vh;
 }
 
 .copy_btn {
   position: absolute;
-  background: #3b3b98;
-  color: white;
+  background: #edffff;
+  color: black;
   border: none;
-  height: 40px;
-  padding: 10px;
+  height: 5.03vh;
+  padding: 1.5vh;
   cursor: pointer;
-  top: 3px;
-  right: 3px;
+  top: 0.5vh;
+  right: 0.5vh;
 }
 
 .generator-btn {
-  background: #3b3b98;
+  background: rgba(65, 65, 65, 0.4);;
   border: none;
   display: block;
   width: 100%;
-  padding: 10px;
+  padding: 2vh;
   color: white;
-  font-size: 17px;
+  font-size: 2.4vh;
   cursor: pointer;
 }
 
@@ -59,5 +59,5 @@
   display: flex;
   justify-content: space-between;
   color: white;
-  margin-bottom: 15px;
+  margin-bottom: 2vh;
 }
